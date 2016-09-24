@@ -38,7 +38,7 @@ The login and registration have been implemented.
   Made changes to the logic followed in room booking, it is now a two page process.
   The room report generation is still incomplete
   Need to add another table for handling classroom timetable and plan on a db structure to handle repeated events.
-
+  The db info can be found in instr_div.sql 
 	
 
 
